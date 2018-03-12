@@ -13,6 +13,7 @@ public class Block{
         this.transactions = new ArrayList<>();
         this.previousHash = "";
 
+
     }
 
     public Block(String previousHash){
